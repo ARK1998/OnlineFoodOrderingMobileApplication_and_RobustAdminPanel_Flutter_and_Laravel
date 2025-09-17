@@ -1,15 +1,6 @@
 # 🍕 Online Food Ordering System  
 
-![Build](https://img.shields.io/badge/build-passing-brightgreen.svg)  
-![Flutter](https://img.shields.io/badge/flutter-3.0%2B-blue.svg?logo=flutter)  
-![Laravel](https://img.shields.io/badge/laravel-10.0%2B-red.svg?logo=laravel)  
-![PHP](https://img.shields.io/badge/PHP-8.0%2B-purple.svg?logo=php)  
-![MySQL](https://img.shields.io/badge/mysql-5.7%2B-blue.svg?logo=mysql)  
-![License](https://img.shields.io/badge/license-MIT-green.svg)  
-![Repo Size](https://img.shields.io/github/repo-size/ARK1998/OnlineFoodOrderingMobileApplication_and_RobustAdminPanel_Flutter_and_Laravel?style=flat-square)  
-![Issues](https://img.shields.io/github/issues/ARK1998/OnlineFoodOrderingMobileApplication_and_RobustAdminPanel_Flutter_and_Laravel?style=flat-square)  
-![Forks](https://img.shields.io/github/forks/ARK1998/OnlineFoodOrderingMobileApplication_and_RobustAdminPanel_Flutter_and_Laravel?style=flat-square)  
-![Stars](https://img.shields.io/github/stars/ARK1998/OnlineFoodOrderingMobileApplication_and_RobustAdminPanel_Flutter_and_Laravel?style=flat-square)  
+![Build](https://img.shields.io/badge/build-passing-brightgreen.svg)![Flutter](https://img.shields.io/badge/flutter-3.0%2B-blue.svg?logo=flutter)![Laravel](https://img.shields.io/badge/laravel-10.0%2B-red.svg?logo=laravel)![PHP](https://img.shields.io/badge/PHP-8.0%2B-purple.svg?logo=php)![MySQL](https://img.shields.io/badge/mysql-5.7%2B-blue.svg?logo=mysql)![License](https://img.shields.io/badge/license-MIT-green.svg)![Repo Size](https://img.shields.io/github/repo-size/ARK1998/OnlineFoodOrderingMobileApplication_and_RobustAdminPanel_Flutter_and_Laravel?style=flat-square)![Issues](https://img.shields.io/github/issues/ARK1998/OnlineFoodOrderingMobileApplication_and_RobustAdminPanel_Flutter_and_Laravel?style=flat-square)![Forks](https://img.shields.io/github/forks/ARK1998/OnlineFoodOrderingMobileApplication_and_RobustAdminPanel_Flutter_and_Laravel?style=flat-square)![Stars](https://img.shields.io/github/stars/ARK1998/OnlineFoodOrderingMobileApplication_and_RobustAdminPanel_Flutter_and_Laravel?style=flat-square)  
 
 A **full-stack food ordering solution** featuring a **Flutter mobile application** for customers and a **Laravel-powered admin panel** for backend management.  
 This system covers the **entire pizza ordering process** — from menu browsing and order customization to secure payments and real-time tracking.  
